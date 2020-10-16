@@ -1,4 +1,4 @@
-# classSchool
+# Class School Exercise
 INTERMEDIATE JAVASCRIPT Exercise - Class
 
 [Instruction]<br>
